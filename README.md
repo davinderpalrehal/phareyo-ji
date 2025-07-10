@@ -4,21 +4,21 @@ In Punjabi when you want someone to buy something for you, you would usually "X 
 
 ## Core Feature List
 
-[ ] User Authentication: Social sign in with Google, Facebook or WhatsApp
-[ ] Create list
-[ ] Edit list
-[ ] Smart item suggestions
-[ ] Add quantity to items
-[ ] Add pictures to items
-[ ] Share list for collaboration with others
-[ ] Offline mode
-[ ] Multiple list
-[ ] Sections within lists
-[ ] Barcode scanner
-[ ] Pantry inventory
-[ ] Store mapping: Tag items to geo-locations or store names
-[ ] Reminders & Notifications: "Don't forget milk!" at the right time and place.
-[ ] Voice assistant integration: Add items hands-free via Alexa/Siri/Google.
+- [ ] User Authentication: Social sign in with Google, Facebook or WhatsApp
+- [ ] Create list
+- [ ] Edit list
+- [ ] Smart item suggestions
+- [ ] Add quantity to items
+- [ ] Add pictures to items
+- [ ] Share list for collaboration with others
+- [ ] Offline mode
+- [ ] Multiple list
+- [ ] Sections within lists
+- [ ] Barcode scanner
+- [ ] Pantry inventory
+- [ ] Store mapping: Tag items to geo-locations or store names
+- [ ] Reminders & Notifications: "Don't forget milk!" at the right time and place.
+- [ ] Voice assistant integration: Add items hands-free via Alexa/Siri/Google.
 
 ### UX/UI Considerations
 
